@@ -4,7 +4,7 @@
 📬 Entre em contato comigo:    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-henrique-miranda-malaquias-391b6954/)](https://www.linkedin.com/in/luiz-henrique-miranda-malaquias-391b6954/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.17017@gmail.com)](mailto:luiz.17017@gmail.com)
 
-🔭 Hoje procuro recolocação no mercado através da linguaguem PHP | Laravel
+🚀 Atualmente sou Fullstack Developer no Grupo Plan Mkt
 
 <div align="center">
   <a href="https://github.com/heenriquelu">
